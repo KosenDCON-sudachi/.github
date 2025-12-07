@@ -5,8 +5,7 @@
 特別養護老人ホーム向けに、ARグラス＋クラウド＋Webダッシュボードで
 スタッフ同士の情報共有と記録業務を支援するシステムを開発しています。
 
-- 背景・目的・要件の詳細: [`/docs/requirements/要件定義-v3.md`](./docs/requirements/要件定義-v3.md)
-- 全体アーキテクチャ: [`/docs/architecture.md`](./docs/architecture.md)
+- 背景・目的・要件の詳細: [`/docs/requirements/要件定義-v3.md`](https://www.notion.so/kmarugoto-college/v3-2be09a68050b8015be31ddcff6c9d15f?source=copy_link)
 
 ## システム構成
 
